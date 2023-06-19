@@ -1,11 +1,11 @@
-# SSM-XuanKeSys
-基于JAVA SSM框架兴趣班在线选课系统设计
+# SpringBoot-XuanKeSys
+基于JAVA SpringBoot框架兴趣班在线选课系统设计
 
 演示视频链接：https://live.csdn.net/v/292306
 
 使用的技术
 
-后端：JAVA开发语言，SSM框架，MySql数据库
+后端：JAVA开发语言，SpringBoot框架，MySql数据库
 
 前端：jsp页面，bootstrap框架
 
