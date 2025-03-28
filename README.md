@@ -1,7 +1,7 @@
 # SpringBoot-XuanKeSys
 基于JAVA SpringBoot框架兴趣班在线选课系统设计
 
-演示视频链接：https://live.csdn.net/v/292306
+演示视频链接：https://www.bilibili.com/video/BV1vL411Y7oa/
 
 使用的技术
 
